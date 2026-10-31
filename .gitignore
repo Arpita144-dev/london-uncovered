@@ -1,0 +1,20 @@
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Application storage temporary files
+storage/itinerary_custom.html

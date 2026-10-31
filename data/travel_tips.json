@@ -1,0 +1,99 @@
+[
+  {
+    "id": "underground_transport",
+    "title": "Mastering The Tube & Transport",
+    "category": "Getting Around",
+    "icon": "🚇",
+    "summary": "Navigate the world's oldest underground network with ease and confidence.",
+    "tips": [
+      "No need to buy paper tickets: simply tap your contactless bank card, phone, or Oyster card at the yellow readers when entering and exiting.",
+      "The system automatically caps your daily fare, so you never pay more than a daily travelcard no matter how many journeys you take in Zones 1-2.",
+      "Always stand on the right on escalators to allow hurrying commuters to pass on the left — an unwritten rule taken very seriously!",
+      "Avoid travelling between 7:30 - 9:30 AM and 5:00 - 7:00 PM on weekdays for a much calmer journey."
+    ]
+  },
+  {
+    "id": "walking_london",
+    "title": "Walking Between Nearby Sights",
+    "category": "Getting Around",
+    "icon": "🚶",
+    "summary": "Many tube map stations look far apart but are actually just minutes on foot.",
+    "tips": [
+      "Covent Garden to Leicester Square takes 45 seconds on foot, but taking the Tube takes 10+ minutes with stairs and elevators.",
+      "Walking along the South Bank from the London Eye to Tower Bridge is one of the world's greatest scenic pedestrian walks (approx 45 minutes).",
+      "Look for the helpful 'Legible London' street wayfinding totems placed at major intersections showing walking radii in 5 and 15-minute circles."
+    ]
+  },
+  {
+    "id": "advance_booking",
+    "title": "Booking Popular Attractions in Advance",
+    "category": "Planning",
+    "icon": "🎟️",
+    "summary": "Save hours of waiting in line by securing your entry slots online before you arrive.",
+    "tips": [
+      "Attractions like the London Eye, Tower of London, and Westminster Abbey have long lines during peak seasons; online timed tickets skip the main ticket queue.",
+      "Even free museums (such as the British Museum and Natural History Museum) recommend booking free timed-entry slots online to guarantee entry during busy periods.",
+      "For West End theatre tickets, visit the official TKTS booth in Leicester Square for legitimate same-day discounted seats."
+    ]
+  },
+  {
+    "id": "free_museums",
+    "title": "Free Museums & Public Spaces",
+    "category": "Budget & Culture",
+    "icon": "🏛️",
+    "summary": "World-class cultural treasures that cost absolutely nothing to explore.",
+    "tips": [
+      "Permanent collections at the British Museum, Natural History Museum, Science Museum, Victoria & Albert Museum, National Gallery, and Tate Modern are 100% free.",
+      "London's 8 Royal Parks (including Hyde Park, Regent's Park, and St James's Park) are free and open to the public from dawn to dusk.",
+      "Free skyline vistas: Sky Garden on Fenchurch Street offers panoramic London views for free (must book your complimentary slot online in advance)."
+    ]
+  },
+  {
+    "id": "weather_packing",
+    "title": "London Weather & Smart Packing",
+    "category": "Practical Advice",
+    "icon": "🌦️",
+    "summary": "How to stay comfortable in London's famous rapidly shifting climate.",
+    "tips": [
+      "London weather is notoriously changeable: carry a compact folding umbrella or water-resistant jacket even if the morning appears clear.",
+      "Dress in versatile layers: underground stations and shops can be warm while river breezes along the Thames can be brisk.",
+      "Bring comfortable, broken-in walking shoes: visitors frequently clock 15,000 to 25,000 steps per day exploring London's historic pavements."
+    ]
+  },
+  {
+    "id": "river_buses",
+    "title": "Thames Clippers & Iconic Red Buses",
+    "category": "Scenic Transit",
+    "icon": "⛴️",
+    "summary": "Sightseeing on a budget using public buses and river ferries.",
+    "tips": [
+      "Ride the front of the top deck on public bus routes 11, 15, or 24 for a self-guided double-decker city tour at standard bus fare (£1.75).",
+      "The 'Hopper Fare' allows unlimited bus transfers within one hour for a single fare.",
+      "Uber Boat by Thames Clippers operates fast river catamarans between Westminster, London Bridge, and Greenwich with indoor cabins and open back decks."
+    ]
+  },
+  {
+    "id": "etiquette_dining",
+    "title": "Dining, Tipping & Social Etiquette",
+    "category": "Culture & Etiquette",
+    "icon": "🍽️",
+    "summary": "Helpful social cues for dining, ordering at pubs, and everyday interactions.",
+    "tips": [
+      "In traditional British pubs, there is no table service: walk up to the bar counter to order your drinks and food, and pay immediately.",
+      "Most London restaurants automatically add an optional 12.5% service charge to the final bill; check the receipt so you don't double-tip.",
+      "Londoners appreciate polite queuing: always look for the queue and join at the back, whether waiting for a bus or ordering coffee."
+    ]
+  },
+  {
+    "id": "safety_emergency",
+    "title": "Visitor Safety & Helpful Numbers",
+    "category": "Safety",
+    "icon": "🛡️",
+    "summary": "Key safety awareness and emergency contact details for peace of mind.",
+    "tips": [
+      "London is generally a very safe global capital, but keep phones and bags secure in crowded tourist areas like Oxford Street and Westminster Bridge to deter opportunist pickpockets.",
+      "In any true emergency, dial 999 (Police, Ambulance, Fire) or 112 from any mobile phone for free.",
+      "For non-emergency police enquiries, dial 101; for non-emergency medical advice, dial 111 (NHS)."
+    ]
+  }
+]

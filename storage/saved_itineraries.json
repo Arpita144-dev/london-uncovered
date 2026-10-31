@@ -1,0 +1,179 @@
+[
+  {
+    "title": "My 3-Day London Adventure",
+    "duration_days": 3,
+    "interests": [
+      "History & Landmarks",
+      "Food & Cafés"
+    ],
+    "budget": "Balanced",
+    "pace": "Balanced",
+    "created_at": "2026-10-31 10:54",
+    "disclaimer": "This itinerary is an intelligent recommendation. Actual timings depend on opening hours, transport, and visitor preferences.",
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Day 1: South Bank & Westminster",
+        "schedule": [
+          {
+            "time": "09:30 AM",
+            "type": "activity",
+            "id": "big_ben",
+            "name": "Big Ben and the Houses of Parliament",
+            "neighbourhood": "Westminster",
+            "duration": "1.5 - 2 hours",
+            "description": "The majestic neo-Gothic Elizabeth Tower and seat of British parliamentary democracy along the Thames.",
+            "category": "Landmarks",
+            "tips": "Nearest Tube: Westminster (Jubilee, District, and Circle lines). Best views for photography are from the south end of Westminster Bridge or the Victoria Tower Gardens.",
+            "image_file": "big_ben.jpg",
+            "is_food": false
+          },
+          {
+            "time": "01:00 PM",
+            "type": "food",
+            "name": "Borough Market Gourmet Lunch",
+            "neighbourhood": "Southwark",
+            "duration": "1 hour",
+            "description": "Artisan hot street food, raclette, and farmhouse cheeses.",
+            "is_food": true
+          },
+          {
+            "time": "11:30 AM",
+            "type": "activity",
+            "id": "westminster_abbey",
+            "name": "Westminster Abbey",
+            "neighbourhood": "Westminster",
+            "duration": "2 hours",
+            "description": "The historic coronation church of the British monarchy and final resting place of monarchs, poets, and statesmen.",
+            "category": "Landmarks",
+            "tips": "Nearest Tube: Westminster or St James's Park. Photography is allowed outside service hours. Modest clothing is respectful in this active place of worship.",
+            "image_file": "westminster_abbey.jpg",
+            "is_food": false
+          },
+          {
+            "time": "02:30 PM",
+            "type": "activity",
+            "id": "london_eye",
+            "name": "The London Eye",
+            "neighbourhood": "South Bank",
+            "duration": "1 hour",
+            "description": "Europe's tallest cantilevered observation wheel offering breathtaking 360-degree vistas across London.",
+            "category": "Landmarks",
+            "tips": "Nearest Tube: Waterloo (Bakerloo, Northern, Jubilee, and Waterloo & City lines). Book fast-track tickets online in advance to bypass peak queue times.",
+            "image_file": "london_eye.jpg",
+            "is_food": false
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "title": "Day 2: Southwark / City & Southwark",
+        "schedule": [
+          {
+            "time": "09:30 AM",
+            "type": "activity",
+            "id": "tower_bridge",
+            "name": "Tower Bridge",
+            "neighbourhood": "Southwark / City",
+            "duration": "1.5 hours",
+            "description": "London's world-renowned Victorian suspension bridge featuring high-level glass walkways and steam engine rooms.",
+            "category": "Landmarks",
+            "tips": "Nearest Tube: Tower Hill (Circle & District lines) or London Bridge. Combine your visit with the Tower of London and St Katharine Docks marina nearby.",
+            "image_file": "tower_bridge.jpg",
+            "is_food": false
+          },
+          {
+            "time": "01:00 PM",
+            "type": "food",
+            "name": "Traditional Afternoon Tea",
+            "neighbourhood": "Covent Garden / Mayfair",
+            "duration": "1 hour",
+            "description": "Warm clotted cream scones, delicate finger sandwiches, and fine tea.",
+            "is_food": true
+          },
+          {
+            "time": "11:30 AM",
+            "type": "activity",
+            "id": "leadenhall_market",
+            "name": "Leadenhall Market",
+            "neighbourhood": "City of London",
+            "duration": "1 hour",
+            "description": "An ornate Victorian covered arcade with soaring wrought iron ribs and rich maritime history in the financial heart.",
+            "category": "Hidden Gems",
+            "tips": "Nearest Tube: Monument, Bank, or Aldgate. Visit on a weekday evening to experience the vibrant after-work city atmosphere, or Saturday morning for peaceful photography.",
+            "image_file": "leadenhall_market.jpg",
+            "is_food": false
+          },
+          {
+            "time": "02:30 PM",
+            "type": "activity",
+            "id": "borough_market",
+            "name": "Borough Market",
+            "neighbourhood": "Southwark",
+            "duration": "1.5 - 2 hours",
+            "description": "London's oldest and most celebrated gourmet food market, serving artisanal delicacies since 1756.",
+            "category": "Food & Markets",
+            "tips": "Nearest Tube: London Bridge (Jubilee and Northern lines). Full market operates Wednesday to Sunday. Visit around 11:30 AM before the lunch rush crowds peak.",
+            "image_file": "borough_market.jpg",
+            "is_food": false
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "title": "Day 3: Covent Garden & Soho",
+        "schedule": [
+          {
+            "time": "09:30 AM",
+            "type": "activity",
+            "id": "buckingham_palace",
+            "name": "Buckingham Palace",
+            "neighbourhood": "Westminster",
+            "duration": "1 - 2 hours",
+            "description": "The administrative headquarters of the British Monarch, famous for the ceremonial Changing of the Guard.",
+            "category": "Landmarks",
+            "tips": "Nearest Tube: Green Park, St James's Park, or Victoria. Arrive at least 45 minutes before 11:00 AM if you wish to secure a front-row view of the Guard Change.",
+            "image_file": "buckingham_palace.jpg",
+            "is_food": false
+          },
+          {
+            "time": "01:00 PM",
+            "type": "food",
+            "name": "Soho & Chinatown Dinner",
+            "neighbourhood": "Soho",
+            "duration": "1 hour",
+            "description": "Dim sum, Cantonese roast duck, or buzzing Italian pasta bars.",
+            "is_food": true
+          },
+          {
+            "time": "11:30 AM",
+            "type": "activity",
+            "id": "soho",
+            "name": "Soho & Chinatown",
+            "neighbourhood": "Soho",
+            "duration": "2 - 3 hours",
+            "description": "London's beating bohemian heart, packed with historic jazz clubs, legendary eateries, and vibrant theatre life.",
+            "category": "Food & Cafés",
+            "tips": "Nearest Tube: Leicester Square, Piccadilly Circus, or Tottenham Court Road. Pedestrianised in the evening with outdoor al-fresco dining across Kingly Street and Old Compton Street.",
+            "image_file": "soho.jpg",
+            "is_food": false
+          },
+          {
+            "time": "02:30 PM",
+            "type": "activity",
+            "id": "neals_yard",
+            "name": "Neal's Yard",
+            "neighbourhood": "Covent Garden",
+            "duration": "1 hour",
+            "description": "A kaleidoscope of vibrant painted facades, lush hanging plants, and organic cafés hidden down an alleyway.",
+            "category": "Hidden Gems",
+            "tips": "Nearest Tube: Covent Garden or Leicester Square. Accessed via narrow alleyways off Monmouth Street or Short's Gardens. Morning light is best for uncrowded photography.",
+            "image_file": "neals_yard.jpg",
+            "is_food": false
+          }
+        ]
+      }
+    ],
+    "id": "def8fc6c"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "big_ben",
+    "name": "Big Ben and the Houses of Parliament",
+    "neighbourhood": "Westminster",
+    "category": "Landmarks",
+    "duration": "1.5 - 2 hours",
+    "short_description": "The majestic neo-Gothic Elizabeth Tower and seat of British parliamentary democracy along the Thames.",
+    "full_description": "Rising majestically over the River Thames, the Elizabeth Tower—universally celebrated as Big Ben—stands as the definitive architectural emblem of Great Britain. Designed by Charles Barry and Augustus Pugin after the catastrophic 1834 fire, this UNESCO World Heritage Site showcases intricate Victorian Gothic Revival craftsmanship. The great bell itself weighs over 13.7 tonnes and has kept Londoners on time with its iconic Great Bell chimes since 1859.",
+    "why_famous": "World-famous symbol of London and the historic cradle of modern parliamentary democracy across the Commonwealth.",
+    "interesting_facts": [
+      "Big Ben strictly refers to the 13.7-tonne Great Bell inside, while the tower was renamed the Elizabeth Tower in 2012 for Queen Elizabeth II's Diamond Jubilee.",
+      "The four clock faces each house 312 individual pieces of opal glass, illuminated from behind by low-energy LEDs.",
+      "A stack of old pennies resting on the pendulum is still used to fine-tune the clock's accuracy down to a fraction of a second."
+    ],
+    "things_to_do": [
+      "Stroll across Westminster Bridge at golden hour for the classic postcard photograph.",
+      "Book an internal tour of the Palace of Westminster and Westminster Hall.",
+      "Listen to the live chimes on the hour from the banks of Parliament Square."
+    ],
+    "visitor_tips": "Nearest Tube: Westminster (Jubilee, District, and Circle lines). Best views for photography are from the south end of Westminster Bridge or the Victoria Tower Gardens.",
+    "image_file": "big_ben.jpg",
+    "keywords": ["big ben", "parliament", "elizabeth tower", "westminster", "thames", "clock", "architecture"],
+    "featured": true,
+    "is_hidden_gem": false,
+    "lat": 51.5007,
+    "lon": -0.1246,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "tower_bridge",
+    "name": "Tower Bridge",
+    "neighbourhood": "Southwark / City",
+    "category": "Landmarks",
+    "duration": "1.5 hours",
+    "short_description": "London's world-renowned Victorian suspension bridge featuring high-level glass walkways and steam engine rooms.",
+    "full_description": "Completed in 1894 after eight years of monumental engineering, Tower Bridge is a triumphs of Victorian industrial ingenuity. Combining suspension spans with hydraulic bascules that lift to let river traffic through, the bridge was constructed in Gothic style to harmonize with the adjacent Tower of London. Today, visitors can walk 42 metres above the Thames across panoramic glass floors and explore the historic Victorian engine rooms.",
+    "why_famous": "The world's most recognisable bascule bridge and an enduring symbol of London's maritime heritage.",
+    "interesting_facts": [
+      "The bridge's twin bascules open approximately 800 times every year, and river traffic always has legal priority over road vehicles.",
+      "In 1952, a London number 78 bus had to leap across a 3-foot opening gap when the bridge began raising unexpectedly while still occupied.",
+      "Originally painted a chocolate brown, it was repainted in its striking red, white, and royal blue for the Queen's Silver Jubilee in 1977."
+    ],
+    "things_to_do": [
+      "Walk across the 42-metre-high glass-bottom walkways for bird's-eye views of river boats.",
+      "Explore the Victorian Engine Rooms to see the original steam engines and coal-fired boilers.",
+      "Check the bridge lift timetable online to watch the massive bascules rise in person."
+    ],
+    "visitor_tips": "Nearest Tube: Tower Hill (Circle & District lines) or London Bridge. Combine your visit with the Tower of London and St Katharine Docks marina nearby.",
+    "image_file": "tower_bridge.jpg",
+    "keywords": ["tower bridge", "bridge", "thames", "tower of london", "southwark", "river", "glass walkway"],
+    "featured": true,
+    "is_hidden_gem": false,
+    "lat": 51.5055,
+    "lon": -0.0754,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Moderate"
+  },
+  {
+    "id": "buckingham_palace",
+    "name": "Buckingham Palace",
+    "neighbourhood": "Westminster",
+    "category": "Landmarks",
+    "duration": "1 - 2 hours",
+    "short_description": "The administrative headquarters of the British Monarch, famous for the ceremonial Changing of the Guard.",
+    "full_description": "Buckingham Palace has served as the official London residence of Britain's sovereigns since 1837. Surrounded by St James's and Green Parks, the palace contains 775 rooms, including the opulent State Rooms decorated with priceless treasures from the Royal Collection. The grand Victoria Memorial stands in front of the palace gates, where thousands gather to witness the historic Changing of the Guard ceremony.",
+    "why_famous": "The working headquarters of the British Monarchy and the focus of national celebrations, jubilees, and royal occasions.",
+    "interesting_facts": [
+      "When the Royal Standard flies atop the palace, the reigning monarch is currently in residence; when the Union Flag flies, they are away.",
+      "The palace garden is the largest private garden in London, spanning 39 acres with a helicopter landing pad and a 3-acre lake.",
+      "The Changing of the Guard ceremony has been taking place in London since 1660."
+    ],
+    "things_to_do": [
+      "Witness the Changing of the Guard ceremony at 11:00 AM (selected days).",
+      "Tour the 19 lavish State Rooms during their exclusive summer public opening.",
+      "Take a peaceful stroll down the Mall and through St James's Park to feed the famous pelicans."
+    ],
+    "visitor_tips": "Nearest Tube: Green Park, St James's Park, or Victoria. Arrive at least 45 minutes before 11:00 AM if you wish to secure a front-row view of the Guard Change.",
+    "image_file": "buckingham_palace.jpg",
+    "keywords": ["buckingham palace", "royals", "king", "guard", "changing of the guard", "the mall", "westminster"],
+    "featured": true,
+    "is_hidden_gem": false,
+    "lat": 51.5014,
+    "lon": -0.1419,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "london_eye",
+    "name": "The London Eye",
+    "neighbourhood": "South Bank",
+    "category": "Landmarks",
+    "duration": "1 hour",
+    "short_description": "Europe's tallest cantilevered observation wheel offering breathtaking 360-degree vistas across London.",
+    "full_description": "Erected at the turn of the millennium, the London Eye has quickly cemented its place alongside Big Ben and Tower Bridge as a world-famous London icon. Standing 135 metres tall on the South Bank of the River Thames, its 32 high-tech glass observation capsules rotate smoothly, giving visitors unparalleled 360-degree panoramic sights reaching up to 40 kilometres on a clear day as far as Windsor Castle.",
+    "why_famous": "The premier vantage point in Central London for sweeping panoramic skyline perspectives.",
+    "interesting_facts": [
+      "The 32 capsules represent London's 32 boroughs, numbered 1 to 33 because number 13 was skipped for superstition.",
+      "It turns at a leisurely 26 cm per second (about 0.9 km/h), slow enough that passengers can step on and off without stopping the wheel.",
+      "Over 3.75 million visitors experience the 30-minute rotation every year."
+    ],
+    "things_to_do": [
+      "Book a sunset flight to watch the golden light wash over the Houses of Parliament.",
+      "Spot over 50 prominent London landmarks from your glass pod.",
+      "Combine with an evening stroll along the vibrant South Bank promenade."
+    ],
+    "visitor_tips": "Nearest Tube: Waterloo (Bakerloo, Northern, Jubilee, and Waterloo & City lines). Book fast-track tickets online in advance to bypass peak queue times.",
+    "image_file": "london_eye.jpg",
+    "keywords": ["london eye", "observation wheel", "skyline", "south bank", "views", "waterloo", "thames"],
+    "featured": true,
+    "is_hidden_gem": false,
+    "lat": 51.5033,
+    "lon": -0.1195,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Paid"
+  },
+  {
+    "id": "westminster_abbey",
+    "name": "Westminster Abbey",
+    "neighbourhood": "Westminster",
+    "category": "Landmarks",
+    "duration": "2 hours",
+    "short_description": "The historic coronation church of the British monarchy and final resting place of monarchs, poets, and statesmen.",
+    "full_description": "Dating back to 960 AD with its magnificent current Gothic structure largely built under King Henry III in 1245, Westminster Abbey is Britain's ultimate royal and national sanctuary. It has witnessed 40 coronations since William the Conqueror in 1066, 17 royal weddings including Prince William and Catherine Middleton, and serves as the burial place of over 3,300 notable figures including Isaac Newton, Charles Dickens, and Stephen Hawking.",
+    "why_famous": "The coronation church of every British monarch for almost a thousand years and the spiritual heart of the nation.",
+    "interesting_facts": [
+      "The Coronation Chair has been used in every coronation ceremony since 1308.",
+      "Poets' Corner contains the graves and memorials of Chaucer, Shakespeare, Jane Austen, and the Brontë sisters.",
+      "The Unknown Warrior tomb is the only tombstone in the Abbey upon which it is forbidden to walk."
+    ],
+    "things_to_do": [
+      "Admire the breathtaking fan vaulted ceiling of Henry VII's Lady Chapel.",
+      "Pay homage to legendary literary figures in Poets' Corner.",
+      "Attend the daily Evensong service to experience the renowned Abbey choir in sublime acoustics for free."
+    ],
+    "visitor_tips": "Nearest Tube: Westminster or St James's Park. Photography is allowed outside service hours. Modest clothing is respectful in this active place of worship.",
+    "image_file": "westminster_abbey.jpg",
+    "keywords": ["westminster abbey", "coronation", "history", "poets corner", "royal", "gothic", "church"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.4993,
+    "lon": -0.1273,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Paid"
+  },
+  {
+    "id": "st_pauls",
+    "name": "St Paul's Cathedral",
+    "neighbourhood": "City of London",
+    "category": "Landmarks",
+    "duration": "2 hours",
+    "short_description": "Sir Christopher Wren's masterpiece featuring an iconic dome that has towered over London's skyline for 300 years.",
+    "full_description": "Constructed in English Baroque style between 1675 and 1710 following the Great Fire of London, St Paul's Cathedral is the masterwork of Sir Christopher Wren. Its towering dome, reaching 111 metres into the sky, was the tallest building in London until the 1960s. The cathedral has hosted historic state funerals for Admiral Nelson, the Duke of Wellington, and Sir Winston Churchill, as well as the wedding of Prince Charles and Lady Diana Spencer.",
+    "why_famous": "An enduring symbol of British resilience and one of the world's most spectacular domed cathedrals.",
+    "interesting_facts": [
+      "The Whispering Gallery features curious acoustic properties: a whisper against its circular wall can be heard clearly on the exact opposite side 33 metres away.",
+      "Wren's tomb in the crypt bears the famous Latin epitaph: 'Lector, si monumentum requiris, circumspice' (Reader, if you seek his monument, look around you).",
+      "Climbing 528 steps to the Golden Gallery rewards you with arguably the finest panoramic vista across the Square Mile."
+    ],
+    "things_to_do": [
+      "Whisper a secret across the Whispering Gallery inside the dome.",
+      "Climb to the Stone Gallery and Golden Gallery for sweeping 360-degree city views.",
+      "Explore the vast underground crypt holding memorials to Britain's greatest military heroes and artists."
+    ],
+    "visitor_tips": "Nearest Tube: St Paul's (Central Line). Climb the dome in the morning to beat the afternoon crowds and enjoy soft morning lighting.",
+    "image_file": "st_pauls.jpg",
+    "keywords": ["st pauls", "cathedral", "dome", "wren", "city of london", "architecture", "whispering gallery"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5138,
+    "lon": -0.0984,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Paid"
+  },
+  {
+    "id": "natural_history_museum",
+    "name": "Natural History Museum",
+    "neighbourhood": "South Kensington",
+    "category": "Museums",
+    "duration": "2.5 - 3 hours",
+    "short_description": "A Romanesque cathedral to nature housing 80 million specimens, dinosaur skeletons, and the magnificent blue whale.",
+    "full_description": "Housed within Alfred Waterhouse's magnificent terracotta Romanesque 'cathedral to nature', the Natural History Museum is one of London's crown jewels. Welcoming visitors into the soaring Hintze Hall under 'Hope', a 25-metre authentic blue whale skeleton suspended from the ceiling, the museum spans Earth's natural wonders, prehistoric dinosaurs, glittering gemstones, and active research collections.",
+    "why_famous": "World-leading centre of natural science, famous for its magnificent Romanesque architecture and dinosaur galleries.",
+    "interesting_facts": [
+      "The building's terracotta exterior and interior carvings represent living animal species on one wing and extinct species on the other.",
+      "The museum's collection holds specimens collected by Charles Darwin during his historic voyage on the HMS Beagle.",
+      "Admission to the permanent collections has remained completely free of charge to the public since 2001."
+    ],
+    "things_to_do": [
+      "Marvel at the animatronic T-Rex and real fossilized dinosaur skeletons.",
+      "Stand underneath the suspended 25-metre blue whale skeleton in Hintze Hall.",
+      "Ride the escalator directly through a molten glowing globe into the Earth Hall."
+    ],
+    "visitor_tips": "Nearest Tube: South Kensington (Piccadilly, District, and Circle lines). Pre-book a free general admission ticket online to skip the main queue.",
+    "image_file": "natural_history_museum.jpg",
+    "keywords": ["natural history museum", "dinosaurs", "blue whale", "south kensington", "free museum", "family", "science"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.4967,
+    "lon": -0.1764,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Free"
+  },
+  {
+    "id": "british_museum",
+    "name": "British Museum",
+    "neighbourhood": "Bloomsbury",
+    "category": "Museums",
+    "duration": "3 hours",
+    "short_description": "Two million years of human history, art, and culture under Norman Foster's dazzling glass Great Court.",
+    "full_description": "Founded in 1753 as the world's first national public museum, the British Museum is dedicated to human history, art, and culture. Its monumental permanent collection of some eight million works spans two million years of human civilization. At its centre lies the Queen Elizabeth II Great Court, Europe's largest covered public square, crowned by an awe-inspiring tessellated glass roof engineered by Norman Foster.",
+    "why_famous": "One of the greatest museums in human history, home to the Rosetta Stone, Egyptian mummies, and Parthenon sculptures.",
+    "interesting_facts": [
+      "The Great Court's canopy consists of 3,312 uniquely cut triangular glass panes, with no two panes identical in shape.",
+      "The Rosetta Stone, displayed here since 1802, provided the essential key that allowed modern scholars to decipher ancient Egyptian hieroglyphs.",
+      "Karl Marx drafted much of 'Das Kapital' in the historic circular Reading Room at the museum's heart."
+    ],
+    "things_to_do": [
+      "Examine the Rosetta Stone in the Egyptian Sculpture Gallery.",
+      "Look up and photograph the geometric glass curves of the Great Court.",
+      "Discover the mysterious Anglo-Saxon treasures of the Sutton Hoo ship burial."
+    ],
+    "visitor_tips": "Nearest Tube: Tottenham Court Road or Holborn. Free general entry; book an entry time slot in advance. Friday evenings offer late openings until 8:30 PM.",
+    "image_file": "british_museum.jpg",
+    "keywords": ["british museum", "rosetta stone", "mummies", "bloomsbury", "great court", "free museum", "history"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5194,
+    "lon": -0.1270,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "hyde_park",
+    "name": "Hyde Park & Kensington Gardens",
+    "neighbourhood": "Central / Kensington",
+    "category": "Parks",
+    "duration": "2 hours",
+    "short_description": "London's premier Royal Park, spanning 350 verdant acres with the Serpentine lake and Speaker's Corner.",
+    "full_description": "Once King Henry VIII's private deer hunting grounds, Hyde Park and Kensington Gardens together form a magnificent 350-acre green lung in the heart of London. Divided by the picturesque Serpentine lake, the park is home to historic monuments, tranquil rose gardens, open-air swimming, boating, and the legendary Speakers' Corner—the world's most famous forum for free speech.",
+    "why_famous": "London's most famous and expansive Royal Park, renowned for its open green expanses, lakeside walks, and cultural events.",
+    "interesting_facts": [
+      "Speakers' Corner has hosted passionate public orations by historic figures including Karl Marx, Vladimir Lenin, and George Orwell.",
+      "The park was the site of the Great Exhibition of 1851, for which Joseph Paxton built the world-renowned Crystal Palace.",
+      "Swimmers brave the Serpentine Lido year-round, including the famous Peter Pan Christmas Day morning race."
+    ],
+    "things_to_do": [
+      "Rent a pedal boat or solar-powered shuttle on the Serpentine Lake.",
+      "Visit the poignant Diana, Princess of Wales Memorial Fountain.",
+      "Listen to the impassioned Sunday morning debaters at Speakers' Corner."
+    ],
+    "visitor_tips": "Nearest Tube: Hyde Park Corner, Marble Arch, or Knightsbridge. Rent a Santander cycle at any park gate for an effortless scenic ride through the grounds.",
+    "image_file": "hyde_park.jpg",
+    "keywords": ["hyde park", "serpentine", "royal park", "kensington", "speakers corner", "nature", "walks"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5073,
+    "lon": -0.1657,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Free"
+  },
+  {
+    "id": "covent_garden",
+    "name": "Covent Garden",
+    "neighbourhood": "West End",
+    "category": "Shopping",
+    "duration": "2 - 3 hours",
+    "short_description": "Vibrant 19th-century market halls buzzing with street performers, luxury boutiques, and lively open-air dining.",
+    "full_description": "Once London's bustling 17th-century wholesale fruit, vegetable, and flower market, Covent Garden has evolved into the pulsating heart of the West End's shopping and entertainment district. Centred around Inigo Jones's piazza and the glass-domed Apple Market, it blends world-class street performers, high-end fashion boutiques, historic pubs, and the Royal Opera House.",
+    "why_famous": "The lively centre of London's street performance culture and upscale boutique shopping in the West End.",
+    "interesting_facts": [
+      "Street entertainers must pass a strict audition process to perform in the Covent Garden Piazza.",
+      "Punch and Judy puppet shows were first recorded here in Samuel Pepys's diary in May 1662.",
+      "The Royal Opera House on the piazza has occupied this site since 1732, rebuilt twice after major theatre fires."
+    ],
+    "things_to_do": [
+      "Watch acrobats, magicians, and musicians perform in the central courtyard.",
+      "Browse handmade crafts and British silver antiques at the Apple Market.",
+      "Discover hidden boutique shops and eateries tucked away in nearby King Street and Floral Court."
+    ],
+    "visitor_tips": "Nearest Tube: Covent Garden (often busy; Leicester Square and Holborn are just a 5-minute walk away). Evenings are magical with twinkling fairy lights and street buskers.",
+    "image_file": "covent_garden.jpg",
+    "keywords": ["covent garden", "market", "shopping", "west end", "street performers", "boutiques", "dining"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5117,
+    "lon": -0.1239,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Free"
+  },
+  {
+    "id": "borough_market",
+    "name": "Borough Market",
+    "neighbourhood": "Southwark",
+    "category": "Food & Markets",
+    "duration": "1.5 - 2 hours",
+    "short_description": "London's oldest and most celebrated gourmet food market, serving artisanal delicacies since 1756.",
+    "full_description": "Trading beneath the Victorian railway arches near London Bridge for over 270 years (and with origins stretching back a millennium), Borough Market is London's ultimate gastronomic sanctuary. Here, over 100 passionate producers, butchers, cheesemongers, bakers, and street-food vendors offer everything from British farmhouse cheddars and Scotch eggs to sizzling Spanish paella, duck confit sandwiches, and fresh oysters.",
+    "why_famous": "London's premier culinary destination, celebrated worldwide for artisanal produce and exceptional street food.",
+    "interesting_facts": [
+      "Food markets have existed on this Southwark site near London Bridge since at least 1014 AD.",
+      "The market served as a film location for Harry Potter and the Prisoner of Azkaban and Bridget Jones's Diary.",
+      "Borough Market operates a zero-waste policy, sending excess edible food to London food charities and composting all organic waste."
+    ],
+    "things_to_do": [
+      "Sample Neal's Yard Dairy British cheeses and artisanal sourdough bread.",
+      "Grab hot salt beef bagels or steaming raclette scraped over baby potatoes.",
+      "Sip craft coffee from Monmouth Coffee Company opposite the market entrance."
+    ],
+    "visitor_tips": "Nearest Tube: London Bridge (Jubilee and Northern lines). Full market operates Wednesday to Sunday. Visit around 11:30 AM before the lunch rush crowds peak.",
+    "image_file": "borough_market.jpg",
+    "keywords": ["borough market", "food", "street food", "cheese", "southwark", "london bridge", "market"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5055,
+    "lon": -0.0910,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Moderate"
+  },
+  {
+    "id": "camden_market",
+    "name": "Camden Market & Regent's Canal",
+    "neighbourhood": "Camden",
+    "category": "Food & Markets",
+    "duration": "2 - 3 hours",
+    "short_description": "An eclectic labyrinth of alternative fashion, vintage vinyl, and global street food alongside the historic canal locks.",
+    "full_description": "Set around historic Victorian horse stables and canal locks, Camden Market is London's counter-culture epicentre. Attracting musicians, artists, and alternative fashion lovers for decades, the market complex comprises over 1,000 unique stalls and eateries. From punk rock jackets and retro memorabilia to global street food stalls serving treats right over the canal, Camden radiates an unmistakable, edgy energy.",
+    "why_famous": "Legendary alternative shopping, rock and roll heritage, and one of London's largest international street food hubs.",
+    "interesting_facts": [
+      "The Stables Market was originally a 19th-century equine hospital for working horses that hauled barges along the canal.",
+      "Late musical icon Amy Winehouse was a Camden local; an emotive bronze life-sized statue honours her inside the Stables.",
+      "Over 28 million people visit Camden Market annually, making it London's fourth most visited attraction."
+    ],
+    "things_to_do": [
+      "Feast on global street food while seated on converted vintage scooter stools by the water.",
+      "Browse underground vintage record shops and handcrafted leather goods.",
+      "Walk the scenic towpath along Regent's Canal to Regent's Park and Primrose Hill."
+    ],
+    "visitor_tips": "Nearest Tube: Camden Town (Northern Line). On weekends Camden Town station is exit-only in the afternoon—use Chalk Farm station for an easy exit and return.",
+    "image_file": "camden_market.jpg",
+    "keywords": ["camden", "camden market", "street food", "alternative", "vintage", "stables", "regents canal"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5414,
+    "lon": -0.1466,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Free"
+  },
+  {
+    "id": "notting_hill",
+    "name": "Notting Hill & Portobello Road",
+    "neighbourhood": "Notting Hill",
+    "category": "Shopping",
+    "duration": "2.5 hours",
+    "short_description": "Pastel-coloured Victorian townhouses, charming antique markets, and world-renowned independent boutiques.",
+    "full_description": "Famous for its pastel-painted stucco Victorian terraces, cobblestone mews streets, and romantic cinematic flair, Notting Hill is one of London's most picturesque residential quarters. At its heart runs Portobello Road Market, the world's largest antique market, stretching for over a mile with stalls offering rare vintage jewellery, old maritime compasses, quirky fashion, and delicious street food.",
+    "why_famous": "Iconic colourful houses, the world's premier antique market, and the host of Europe's largest carnival.",
+    "interesting_facts": [
+      "Every August bank holiday, Notting Hill hosts the vibrant Notting Hill Carnival, Europe's largest Caribbean street festival with over a million attendees.",
+      "The famous blue door from the Hugh Grant and Julia Roberts 1999 romantic comedy film 'Notting Hill' can still be visited on Westbourne Park Road.",
+      "Portobello Market has been trading since the 1860s, transitioning from fruit and veg to antiques in the late 1940s."
+    ],
+    "things_to_do": [
+      "Explore the Saturday antique market along Portobello Road.",
+      "Photograph the stunning pastel houses along Lancaster Road and St Luke's Mews.",
+      "Enjoy artisanal coffee and pastries at local favourite bakeries along Westbourne Grove."
+    ],
+    "visitor_tips": "Nearest Tube: Notting Hill Gate or Ladbroke Grove. Saturday is the main antique market day; visit on Friday morning if you prefer fewer crowds with most shops open.",
+    "image_file": "notting_hill.jpg",
+    "keywords": ["notting hill", "portobello road", "antiques", "colourful houses", "shopping", "west london", "mews"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5172,
+    "lon": -0.2057,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "greenwich",
+    "name": "Greenwich & Royal Observatory",
+    "neighbourhood": "Greenwich",
+    "category": "History & Landmarks",
+    "duration": "3 hours",
+    "short_description": "The home of Greenwich Mean Time, Prime Meridian line, Cutty Sark clipper, and breathtaking Royal Park views.",
+    "full_description": "A designated Maritime UNESCO World Heritage Site on the south bank of the Thames, Greenwich offers rich maritime history, royal architecture, and panoramic city views. Here, Sir Christopher Wren's Old Royal Naval College frames the majestic river, while atop the lush Greenwich Royal Park sits the Royal Observatory, where visitors can straddle the historic Prime Meridian line separating east and west hemispheres.",
+    "why_famous": "The international home of time (GMT) and the zero-degree Prime Meridian line of the world.",
+    "interesting_facts": [
+      "You can literally stand with one foot in the Eastern Hemisphere and one foot in the Western Hemisphere at the Meridian Line.",
+      "The Cutty Sark is the world's sole surviving extreme tea clipper, celebrated as the fastest ship of her era.",
+      "The Painted Hall inside the Old Royal Naval College is known as the 'Sistine Chapel of the UK', boasting 40,000 square feet of Baroque murals."
+    ],
+    "things_to_do": [
+      "Stand astride the Prime Meridian Line in the courtyard of the Royal Observatory.",
+      "Climb to the top of Greenwich Park for one of London's most iconic skyline panoramas.",
+      "Walk beneath the suspended copper hull of the 1869 Cutty Sark clipper ship."
+    ],
+    "visitor_tips": "Best reached via the Uber Boat by Thames Clippers from Westminster or London Eye Pier for an unforgettable river journey, or via DLR to Cutty Sark station.",
+    "image_file": "greenwich.jpg",
+    "keywords": ["greenwich", "prime meridian", "royal observatory", "cutty sark", "painted hall", "views", "maritime"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.4816,
+    "lon": 0.0005,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Moderate"
+  },
+  {
+    "id": "leadenhall_market",
+    "name": "Leadenhall Market",
+    "neighbourhood": "City of London",
+    "category": "Hidden Gems",
+    "duration": "1 hour",
+    "short_description": "An ornate Victorian covered arcade with soaring wrought iron ribs and rich maritime history in the financial heart.",
+    "full_description": "Tucked discreetly amidst the futuristic glass skyscrapers of the Square Mile, Leadenhall Market is a breathtaking Victorian architectural jewel. Designed in 1881 by Sir Horace Jones (who also designed Tower Bridge), its ornate wrought iron framework, vaulted glass ceilings, and rich maroon and gold paintwork evoke 19th-century elegance. Today it houses bustling taverns, artisan wine bars, and specialty dining.",
+    "why_famous": "Victorian architectural masterpiece and the real-world filming location for Diagon Alley in Harry Potter.",
+    "interesting_facts": [
+      "Meat and poultry have been sold on this precise spot since the 14th century, once Roman Londinium's central forum.",
+      "Film fans will recognize its cobbled passageways as Diagon Alley and the exterior entrance to the Leaky Cauldron from Harry Potter and the Philosopher's Stone.",
+      "During the 19th century, a legendary gander named 'Old Tom' famously escaped the butcher and lived out his days as a pampered market pet, buried on site in 1835."
+    ],
+    "things_to_do": [
+      "Photograph the intricate wrought iron ceiling and gilded dragon detailing.",
+      "Enjoy a pint of traditional ale in historic pubs like The Lamb Tavern.",
+      "Spot the wizarding filming spot at 42 Bull's Head Passage."
+    ],
+    "visitor_tips": "Nearest Tube: Monument, Bank, or Aldgate. Visit on a weekday evening to experience the vibrant after-work city atmosphere, or Saturday morning for peaceful photography.",
+    "image_file": "leadenhall_market.jpg",
+    "keywords": ["leadenhall market", "hidden gems", "harry potter", "diagon alley", "victorian", "city of london", "architecture"],
+    "featured": false,
+    "is_hidden_gem": true,
+    "lat": 51.5126,
+    "lon": -0.0835,
+    "recommended_time_of_day": "evening",
+    "cost_category": "Free"
+  },
+  {
+    "id": "little_venice",
+    "name": "Little Venice",
+    "neighbourhood": "Maida Vale",
+    "category": "Hidden Gems",
+    "duration": "1.5 hours",
+    "short_description": "A tranquil picturesque canal basin where Regent's Canal and Grand Union Canal converge amidst weeping willows.",
+    "full_description": "Where the Grand Union and Regent's Canals meet in Maida Vale lies Little Venice, one of London's most serene and romantic hidden enclaves. Flanked by grand stucco Regency mansions, weeping willows, and colourful narrowboats converted into charming floating tearooms, independent art theatres, and cozy waterside cafés, Little Venice offers a tranquil escape from the bustling city streets.",
+    "why_famous": "London's most picturesque canal basin, offering peaceful boat rides, willow-fringed waterways, and floating cafés.",
+    "interesting_facts": [
+      "Poet Robert Browning lived nearby and is often credited with popularising the romantic moniker 'Little Venice'.",
+      "The Puppet Theatre Barge, an enchanting 50-seat marionette theatre housed inside a 72-foot converted Thames barge, has docked here since 1982.",
+      "You can board traditional narrowboats that travel leisurely through Regent's Park straight into Camden Lock."
+    ],
+    "things_to_do": [
+      "Enjoy coffee and carrot cake on the floating terrace of Waterside Café narrowboat.",
+      "Take a peaceful narrowboat cruise down the Regent's Canal past London Zoo to Camden.",
+      "Stroll along the tranquil tree-lined towpaths admiring the historic canal craft."
+    ],
+    "visitor_tips": "Nearest Tube: Warwick Avenue (Bakerloo Line). It's a gorgeous 45-minute stroll along the canal towpath from Little Venice all the way to Camden Market.",
+    "image_file": "little_venice.jpg",
+    "keywords": ["little venice", "canal", "narrowboat", "regents canal", "hidden gems", "tranquil", "maida vale"],
+    "featured": false,
+    "is_hidden_gem": true,
+    "lat": 51.5218,
+    "lon": -0.1824,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "neals_yard",
+    "name": "Neal's Yard",
+    "neighbourhood": "Covent Garden",
+    "category": "Hidden Gems",
+    "duration": "1 hour",
+    "short_description": "A kaleidoscope of vibrant painted facades, lush hanging plants, and organic cafés hidden down an alleyway.",
+    "full_description": "Tucked away behind Seven Dials in Covent Garden, Neal's Yard is a magical, vibrant micro-courtyard bursting with colour. Founded in the late 1970s by alternative activist and Monty Python alumnus Nicholas Saunders as an organic food and remedy haven, its neon-painted window frames, lush greenery, and wooden balconies house independent organic bakeries, skincare shops, and wood-fired pizza spots.",
+    "why_famous": "London's most colourful secret courtyard, beloved for its bohemian spirit and vibrant architecture.",
+    "interesting_facts": [
+      "In the 1970s, this area was a derelict rat-infested warehouse courtyard destined for demolition before being rescued by Nicholas Saunders.",
+      "The yard birthed two famous British brands: Neal's Yard Remedies (natural apothecaries) and Neal's Yard Dairy (fine artisanal cheeses).",
+      "Its two tiny entrance alleyways are so discreet that thousands walk past Seven Dials without ever discovering it."
+    ],
+    "things_to_do": [
+      "Snap vibrant photos of the colourful painted shutters and trailing greenery.",
+      "Order sourdough pizza by the slice at the cult favourite Homeslice.",
+      "Try botanical skincare infusions and herbal teas at the flagship Neal's Yard Remedies apothecary."
+    ],
+    "visitor_tips": "Nearest Tube: Covent Garden or Leicester Square. Accessed via narrow alleyways off Monmouth Street or Short's Gardens. Morning light is best for uncrowded photography.",
+    "image_file": "neals_yard.jpg",
+    "keywords": ["neals yard", "covent garden", "seven dials", "hidden gems", "colourful", "cafes", "organic"],
+    "featured": false,
+    "is_hidden_gem": true,
+    "lat": 51.5140,
+    "lon": -0.1265,
+    "recommended_time_of_day": "morning",
+    "cost_category": "Free"
+  },
+  {
+    "id": "hampstead_heath",
+    "name": "Hampstead Heath & Parliament Hill",
+    "neighbourhood": "Hampstead",
+    "category": "Hidden Gems",
+    "duration": "2.5 hours",
+    "short_description": "A wild ancient parkland spanning 800 acres, offering natural swimming ponds and unbeatable panoramic city views.",
+    "full_description": "Spanning 800 acres of untamed woods, meadows, and swimming ponds in North London, Hampstead Heath feels a world away from the urban metropolis. Its pinnacle, Parliament Hill, provides one of the most stunning protected panoramic vistas of the entire London skyline. With romantic literary connections, ancient woodland, and neoclassical Kenwood House, the Heath is a timeless London sanctuary.",
+    "why_famous": "London's wildest green expanse, famous for open-air swimming ponds, Kenwood House, and Parliament Hill views.",
+    "interesting_facts": [
+      "Parliament Hill offers a legally protected view corridor of St Paul's Cathedral and the City of London that cannot be obscured by future skyscrapers.",
+      "The Heath's historic natural bathing ponds (men's, women's, and mixed) have offered open-air swimming since the Victorian era.",
+      "Neoclassical Kenwood House on the Heath holds priceless masterpieces by Rembrandt, Vermeer, and Turner, free to the public."
+    ],
+    "things_to_do": [
+      "Climb Parliament Hill to fly a kite and take in the panoramic skyline from St Paul's to Canary Wharf.",
+      "Explore the historic Georgian village of Hampstead and its charming historic pubs like The Holly Bush.",
+      "Visit the neoclassical rooms and art collection of Kenwood House."
+    ],
+    "visitor_tips": "Nearest Station: Hampstead (Northern Line) or Hampstead Heath (London Overground). Bring a picnic blanket on sunny afternoons for a classic London day out.",
+    "image_file": "hampstead_heath.jpg",
+    "keywords": ["hampstead heath", "parliament hill", "nature", "hidden gems", "views", "ponds", "hampstead"],
+    "featured": false,
+    "is_hidden_gem": true,
+    "lat": 51.5608,
+    "lon": -0.1631,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Free"
+  },
+  {
+    "id": "soho",
+    "name": "Soho & Chinatown",
+    "neighbourhood": "Soho",
+    "category": "Food & Cafés",
+    "duration": "2 - 3 hours",
+    "short_description": "London's beating bohemian heart, packed with historic jazz clubs, legendary eateries, and vibrant theatre life.",
+    "full_description": "Bound by Oxford Street, Regent Street, and Charing Cross Road, Soho is London's legendary entertainment district. Having evolved from 1960s swinging London and rock music clubs into an internationally acclaimed culinary paradise, Soho is packed with bustling tapas bars, Italian espresso bars, cutting-edge bakeries, and Chinatown's red lanterns and dumpling restaurants on Gerrard Street.",
+    "why_famous": "The culinary and nightlife epicentre of London, renowned for diversity, theatres, jazz clubs, and dining.",
+    "interesting_facts": [
+      "The Rolling Stones, The Beatles, Jimi Hendrix, and David Bowie all recorded or played legendary gigs in historic Soho clubs like the Marquee.",
+      "Chinatown's ornate traditional Paifang gates were crafted by traditional artisans in Beijing and erected in the heart of London.",
+      "Karl Marx lived in poverty in a two-room flat on Dean Street in Soho during the 1850s."
+    ],
+    "things_to_do": [
+      "Sip authentic espresso at Bar Italia on Frith Street, serving coffee since 1949.",
+      "Sample dim sum, roast duck, and bubble tea beneath the lanterns on Gerrard Street.",
+      "Experience live world-class jazz at the legendary Ronnie Scott's Jazz Club."
+    ],
+    "visitor_tips": "Nearest Tube: Leicester Square, Piccadilly Circus, or Tottenham Court Road. Pedestrianised in the evening with outdoor al-fresco dining across Kingly Street and Old Compton Street.",
+    "image_file": "soho.jpg",
+    "keywords": ["soho", "chinatown", "food", "cafes", "nightlife", "jazz", "central london"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5137,
+    "lon": -0.1340,
+    "recommended_time_of_day": "evening",
+    "cost_category": "Moderate"
+  },
+  {
+    "id": "shoreditch",
+    "name": "Shoreditch & Brick Lane",
+    "neighbourhood": "Shoreditch",
+    "category": "Food & Markets",
+    "duration": "2.5 hours",
+    "short_description": "East London's creative hub featuring world-class street art, indie coffee roasters, vintage markets, and legendary curry houses.",
+    "full_description": "Shoreditch is the undisputed creative and technological vanguard of East London. Once an industrial textile and furniture quarter, it has transformed into a vibrant cultural canvas covered in world-class murals by street artists from Banksy to ROA. Centred around Brick Lane, Redchurch Street, and Boxpark, Shoreditch blends 24-hour salt beef bagel bakeries, legendary curry houses, indie coffee shops, and massive vintage emporiums.",
+    "why_famous": "London's creative hub, famed for internationally renowned street art, vintage shopping, and Brick Lane curry culture.",
+    "interesting_facts": [
+      "Brick Lane's 24-hour Beigel Bake has been boiling and baking traditional Jewish salt beef bagels since 1974, producing over 7,000 bagels daily.",
+      "Shoreditch was home to 'The Theatre', London's first purpose-built permanent playhouse, where Shakespeare premiered several early plays.",
+      "The street murals change almost weekly, creating an ever-evolving open-air contemporary art gallery."
+    ],
+    "things_to_do": [
+      "Take a self-guided street art safari down Chance Street, Whitby Street, and Hanbury Street.",
+      "Eat warm salt beef and mustard bagels at Beigel Bake on Brick Lane.",
+      "Browse four sprawling underground vintage markets beneath the Old Truman Brewery."
+    ],
+    "visitor_tips": "Nearest Station: Shoreditch High Street (Overground) or Liverpool Street. Sunday is Brick Lane's busiest market day; visit on Thursday or Friday afternoon for relaxed browsing.",
+    "image_file": "shoreditch.jpg",
+    "keywords": ["shoreditch", "brick lane", "street art", "vintage", "east london", "bagels", "creative"],
+    "featured": false,
+    "is_hidden_gem": false,
+    "lat": 51.5235,
+    "lon": -0.0766,
+    "recommended_time_of_day": "afternoon",
+    "cost_category": "Moderate"
+  }
+]

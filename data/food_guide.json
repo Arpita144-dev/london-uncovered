@@ -1,0 +1,98 @@
+[
+  {
+    "id": "traditional_british",
+    "name": "Traditional British Classics",
+    "category": "Traditional British Food",
+    "image_file": "british_food.jpg",
+    "short_description": "Comfort food heritage from golden beer-battered fish and chips to hearty Sunday roasts with Yorkshire puddings.",
+    "description": "British cuisine in London celebrates time-honoured heritage with modern culinary finesse. Settle into a historic wood-panelled tavern for a generous Sunday roast featuring slow-cooked beef, towering crisp Yorkshire puddings, roast potatoes, and rich red wine gravy, or savour golden beer-battered cod and twice-cooked chips with mushy peas.",
+    "signature_dishes": [
+      "Sunday Roast with beef, Yorkshire puddings & horseradish",
+      "Traditional Beer-Battered Fish & Hand-Cut Chips with tartare",
+      "Steak & Ale Pie with buttery mash and rich gravy",
+      "Full English Breakfast with Cumberland sausages and black pudding"
+    ],
+    "where_to_try": "Historic London taverns in Covent Garden, City of London, and Borough Market.",
+    "culinary_tradition": "Pub roasts are traditionally served on Sunday lunchtimes between 12:00 PM and 4:00 PM."
+  },
+  {
+    "id": "afternoon_tea",
+    "name": "The Art of Afternoon Tea",
+    "category": "Afternoon Tea",
+    "image_file": "afternoon_tea.jpg",
+    "short_description": "A quintessentially British ritual of warm clotted cream scones, delicate finger sandwiches, and fine loose-leaf teas.",
+    "description": "Introduced in 1840 by Anna, the 7th Duchess of Bedford, to bridge the hunger between lunch and dinner, afternoon tea has evolved into London's most glamorous culinary ceremony. Served on elegant three-tiered silver stands, guests enjoy freshly baked warm scones with Cornish clotted cream and strawberry preserve, delicate crustless finger sandwiches, and handcrafted patisserie.",
+    "signature_dishes": [
+      "Freshly baked warm buttermilk scones with clotted cream and strawberry jam",
+      "Smoked salmon, cucumber and cream cheese, and egg mayonnaise finger sandwiches",
+      "Earl Grey, Darjeeling, and Assam loose-leaf specialty tea blends",
+      "Handcrafted seasonal fruit tarts and chocolate macarons"
+    ],
+    "where_to_try": "Grand hotels in Mayfair and St James's, Covent Garden tea salons, and riverside dining rooms.",
+    "culinary_tradition": "Proper etiquette tip: split your scone with your fingers rather than a knife, and debate whether jam or cream goes first (Devonshire vs Cornish)."
+  },
+  {
+    "id": "street_food",
+    "name": "Global Street Food Markets",
+    "category": "Street Food",
+    "image_file": "borough_market.jpg",
+    "short_description": "Sizzling culinary creations from every continent served fresh in bustling historic arches and open squares.",
+    "description": "London's street food scene is legendary for diversity, creativity, and explosive flavours. Underneath railway arches, alongside canals, and in converted Victorian stables, dynamic street vendors cook everything from wheel-scraped Swiss raclette over roast potatoes to Taiwanese steamed bao buns, Ghanaian stews, and Argentinian steak rolls.",
+    "signature_dishes": [
+      "Hot raclette scraped over baby potatoes and gherkins",
+      "Gourmet salt beef bagels with fiery mustard and dill pickles",
+      "Venezuelan stuffed arepas with braised beef and plantains",
+      "Smoked brisket sandwiches and crispy pork belly bowls"
+    ],
+    "where_to_try": "Borough Market (Southwark), Camden Lock Market, Maltby Street Market, and Seven Dials Market.",
+    "culinary_tradition": "Most street food stalls operate cashless—contactless cards and smartphone payments are the universal standard."
+  },
+  {
+    "id": "chinatown_asian",
+    "name": "Chinatown & International Flavours",
+    "category": "International Cuisine",
+    "image_file": "chinatown.jpg",
+    "short_description": "Centuries of immigration have made London a world capital of Cantonese, Indian, Italian, and Middle Eastern fare.",
+    "description": "London's culinary soul is intrinsically global. In Gerrard Street's Chinatown, gleaming lacquered Cantonese roast ducks hang in steaming windows alongside bustling dim sum parlours. On Brick Lane and in South Kensington, fragrant Indian curry houses and Persian grills showcase rich regional spice traditions that have become staples of modern British life.",
+    "signature_dishes": [
+      "Crispy Cantonese roast duck and barbecue char siu pork",
+      "Handmade dim sum baskets (Har Gow shrimp dumplings & Xiao Long Bao)",
+      "Brick Lane aromatic lamb biryani and chicken tikka masala",
+      "Neapolitan sourdough pizza baked in blistering 500-degree wood ovens"
+    ],
+    "where_to_try": "Gerrard Street (Chinatown, Soho), Brick Lane (Shoreditch), and Dean Street (Soho).",
+    "culinary_tradition": "Weekend dim sum brunch with jasmine tea is one of London's most beloved communal eating rituals."
+  },
+  {
+    "id": "bakeries_cafes",
+    "name": "Artisan Bakeries & Independent Cafés",
+    "category": "Bakeries & Cafés",
+    "image_file": "neals_yard.jpg",
+    "short_description": "Third-wave micro-roasters, slow-fermented sourdoughs, and flaky pastries in atmospheric hidden nooks.",
+    "description": "The independent coffee and bakery scene across London is among the most innovative anywhere. Roasters prioritize single-origin beans sourced directly from smallholder farms, while master bakers craft 48-hour fermented sourdough loaves, cardamon buns, and almond croissants that draw dedicated morning queues across Soho, Covent Garden, and Shoreditch.",
+    "signature_dishes": [
+      "Flaky Swedish cardamom and cinnamon buns",
+      "Laminated almond croissants and morning buns",
+      "Heritage grain long-ferment sourdough toasts with salted butter",
+      "Flat whites poured with silky microfoam and single-origin espresso"
+    ],
+    "where_to_try": "Monmouth Coffee (Covent Garden & Borough), Neal's Yard bakeries, and Redchurch Street in Shoreditch.",
+    "culinary_tradition": "Londoners swear by the 'Flat White', originally introduced by Kiwi and Aussie baristas in Soho in the early 2000s."
+  },
+  {
+    "id": "food_markets",
+    "name": "Historic Covered Food Halls",
+    "category": "Food Markets",
+    "image_file": "leadenhall_market.jpg",
+    "short_description": "Magnificent Victorian ironwork halls combining fresh produce, artisan delis, and communal dining tables.",
+    "description": "From the grand painted arches of Leadenhall Market to the restored brickwork of Seven Dials Market, London's indoor food halls provide warm communal gathering points. Visitors can browse artisanal charcuterie, rare British farmhouse cheeses, and fresh seafood before sitting down with a craft cider or local London pale ale.",
+    "signature_dishes": [
+      "Montgomery's Cheddar and Stilton cheeses with artisan crackers",
+      "Oysters on the half shell with shallot mignonette and lemon",
+      "Craft cider and London-brewed IPAs on draught",
+      "Handmade pasta spun right before your eyes"
+    ],
+    "where_to_try": "Borough Market, Leadenhall Market, and Seven Dials Market in Covent Garden.",
+    "culinary_tradition": "Many market stalls offer complimentary samples; striking up a friendly chat with stallholders is welcomed and encouraged."
+  }
+]

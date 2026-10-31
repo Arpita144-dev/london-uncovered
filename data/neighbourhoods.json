@@ -1,0 +1,82 @@
+[
+  {
+    "id": "westminster",
+    "name": "Westminster",
+    "vibe": "Monumental & Regal",
+    "image_file": "big_ben.jpg",
+    "description": "The political and royal nerve centre of the United Kingdom, where grand neo-Gothic monuments, royal parks, and stately government avenues line the historic banks of the Thames.",
+    "what_famous_for": "Big Ben, the Houses of Parliament, Westminster Abbey, and Buckingham Palace.",
+    "recommended_destinations": ["big_ben", "westminster_abbey", "buckingham_palace"],
+    "insider_tip": "Walk through Victoria Tower Gardens along the river embankment for an uncrowded view of Parliament's ornate Victoria Tower."
+  },
+  {
+    "id": "covent_garden",
+    "name": "Covent Garden",
+    "vibe": "Theatrical & Bustling",
+    "image_file": "covent_garden.jpg",
+    "description": "A sensory feast of cobbled plazas, world-class street performance, the Royal Opera House, and designer shopping, connecting seamlessly to colourful micro-sanctuaries like Neal's Yard.",
+    "what_famous_for": "The Apple Market, West End theatres, street performers, and vibrant dining.",
+    "recommended_destinations": ["covent_garden", "neals_yard"],
+    "insider_tip": "Slip into Floral Street and Rose Street to discover quiet 17th-century historic pubs tucked away from the main piazza."
+  },
+  {
+    "id": "soho",
+    "name": "Soho & Chinatown",
+    "vibe": "Bohemian & Electrifying",
+    "image_file": "soho.jpg",
+    "description": "London's most vibrant entertainment and dining labyrinth, celebrated for jazz basements, heritage Italian coffee bars, indie theatre, and Chinatown's bustling dumpling houses.",
+    "what_famous_for": "Legendary music history, eclectic global cuisine, Ronnie Scott's Jazz Club, and Chinatown.",
+    "recommended_destinations": ["soho"],
+    "insider_tip": "Visit Kingly Court, a three-storey open-air courtyard packed with independent food concepts that hums with energy day and night."
+  },
+  {
+    "id": "notting_hill",
+    "name": "Notting Hill",
+    "vibe": "Pastel & Romantic",
+    "image_file": "notting_hill.jpg",
+    "description": "An enchanting West London neighbourhood of pastel Victorian townhouses, cobblestone mews, antique treasure troves, and stylish independent cafés.",
+    "what_famous_for": "Portobello Road Market, pastel stucco terraces, and Europe's largest carnival.",
+    "recommended_destinations": ["notting_hill"],
+    "insider_tip": "Wander through St Luke's Mews and Lancaster Road for the most picturesque pastel street compositions in the city."
+  },
+  {
+    "id": "camden",
+    "name": "Camden Town",
+    "vibe": "Alternative & Vibrant",
+    "image_file": "camden_market.jpg",
+    "description": "London's rock-and-roll heartland, where alternative subcultures, vintage clothing emporiums, live gig venues, and global street food gather around the Regent's Canal locks.",
+    "what_famous_for": "Camden Stables Market, punk and indie music heritage, and canal lockside dining.",
+    "recommended_destinations": ["camden_market"],
+    "insider_tip": "Board a waterbus along Regent's Canal from Camden Lock to Little Venice for a magical low-key journey through the heart of London Zoo."
+  },
+  {
+    "id": "greenwich",
+    "name": "Greenwich",
+    "vibe": "Maritime & Grand",
+    "image_file": "greenwich.jpg",
+    "description": "A riverside UNESCO World Heritage maritime village where royal architecture, naval history, timekeeping heritage, and sweeping hilltop vistas converge.",
+    "what_famous_for": "Prime Meridian of the world (GMT), Cutty Sark clipper, Old Royal Naval College, and panoramic park views.",
+    "recommended_destinations": ["greenwich"],
+    "insider_tip": "Arrive via river boat from Westminster Pier and return via the Greenwich Foot Tunnel under the Thames to Island Gardens for great photography."
+  },
+  {
+    "id": "south_bank",
+    "name": "South Bank & Bankside",
+    "vibe": "Cultural & Panoramic",
+    "image_file": "london_eye.jpg",
+    "description": "A continuous, pedestrianised riverside promenade buzzing with cultural institutions, skateboarders, street food stalls, river views, and illuminated bridges.",
+    "what_famous_for": "The London Eye, Tate Modern, Shakespeare's Globe, and panoramic Thames boardwalks.",
+    "recommended_destinations": ["london_eye", "tower_bridge", "borough_market"],
+    "insider_tip": "Walk the illuminated riverside path at twilight between the National Theatre and Millennium Bridge to see the City skyline glow across the river."
+  },
+  {
+    "id": "shoreditch",
+    "name": "Shoreditch & East End",
+    "vibe": "Edgy & Artistic",
+    "image_file": "shoreditch.jpg",
+    "description": "The creative epicenter of East London, transformed from industrial textile warehouses into an open-air street art gallery with vintage markets and 24-hour bagel shops.",
+    "what_famous_for": "Street art murals, Brick Lane curry houses, vintage fashion markets, and indie tech culture.",
+    "recommended_destinations": ["shoreditch"],
+    "insider_tip": "Explore Redchurch Street for high-end indie concept stores and artisanal chocolate tasting before heading down Brick Lane."
+  }
+]

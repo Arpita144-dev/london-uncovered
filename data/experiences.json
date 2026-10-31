@@ -1,0 +1,66 @@
+[
+  {
+    "id": "food_cafes",
+    "title": "Food & Cafés",
+    "tagline": "From historic street markets to Michelin dining and afternoon tea.",
+    "description": "London has transformed into one of the culinary capitals of the world. Sample sizzling artisanal street delicacies at Victorian railway arches, indulge in tiered afternoon tea in Mayfair, experience authentic dumplings in Chinatown, or linger in third-wave specialty coffee shops across Soho.",
+    "image_file": "borough_market.jpg",
+    "highlights": [
+      "Borough Market gourmet treats & cheese tasting",
+      "Traditional tiered Afternoon Tea service",
+      "Chinatown roast duck & dim sum feasts",
+      "Camden Lock waterside international street food",
+      "Specialty artisan coffee culture in Soho & Fitzrovia"
+    ],
+    "linked_destinations": ["borough_market", "camden_market", "soho", "covent_garden"],
+    "quote": "To eat well in England you should have breakfast three times a day — or better yet, explore London's modern markets."
+  },
+  {
+    "id": "shopping",
+    "title": "Shopping & Markets",
+    "tagline": "Centuries-old antique stalls, West End flagships, and hidden mews boutiques.",
+    "description": "Whether you are treasure hunting for rare 19th-century silver along Portobello Road, exploring high fashion on Regent Street and Bond Street, or browsing craft designers in Covent Garden's Apple Market, London offers retail therapy steeped in character.",
+    "image_file": "covent_garden.jpg",
+    "highlights": [
+      "Portobello Road Saturday antique and vintage market",
+      "Covent Garden craft stalls & designer flagships",
+      "Oxford & Regent Street world-famous department stores",
+      "Camden Stables alternative fashion and indie makers",
+      "Shoreditch vintage clothing emporiums"
+    ],
+    "linked_destinations": ["notting_hill", "covent_garden", "camden_market", "shoreditch", "leadenhall_market"],
+    "quote": "From Savile Row tailoring to indie vinyl stalls, shopping in London is an expedition through living history."
+  },
+  {
+    "id": "culture_entertainment",
+    "title": "Culture & Entertainment",
+    "tagline": "West End theatre magic, world-class free museums, and royal pageantry.",
+    "description": "Immerse yourself in world-changing culture. Spend your days marvelling at global antiquities in the British Museum and dinosaur skeletons in South Kensington, and spend your evenings catching unforgettable theatre spectacles in Theatreland.",
+    "image_file": "british_museum.jpg",
+    "highlights": [
+      "West End Theatreland world-renowned musicals and plays",
+      "Free permanent access to London's supreme national museums",
+      "Gothic royal architecture at Westminster and St Paul's",
+      "Royal pageantry and Changing of the Guard ceremonies",
+      "Cutting-edge contemporary street art across East London"
+    ],
+    "linked_destinations": ["british_museum", "natural_history_museum", "big_ben", "westminster_abbey", "st_pauls"],
+    "quote": "A bad day in London is still better than a good day anywhere else."
+  },
+  {
+    "id": "scenic_london",
+    "title": "Scenic London",
+    "tagline": "Thames riverbank panoramas, royal parklands, and tranquil canal towpaths.",
+    "description": "London is one of Europe's greenest mega-cities, with nearly 40% public green space and the serpentine River Thames flowing through its heart. Enjoy riverside sunsets on the South Bank, boat cruises down to Greenwich, or quiet canal towpath walks in Little Venice.",
+    "image_file": "south_bank.jpg",
+    "highlights": [
+      "Sunset walks along the South Bank from the Eye to Tower Bridge",
+      "Historic clipper boat cruises down the Thames to Greenwich",
+      "Quiet canal narrowboat journeys through Little Venice to Camden",
+      "Sweeping 360-degree vistas from Parliament Hill and Greenwich Observatory",
+      "Royal Park expanses and boating on the Serpentine Lake"
+    ],
+    "linked_destinations": ["london_eye", "tower_bridge", "greenwich", "little_venice", "hyde_park", "hampstead_heath"],
+    "quote": "When a man is tired of London, he is tired of life; for there is in London all that life can afford."
+  }
+]
